@@ -2,7 +2,6 @@
 # Name: 
 
 from flask import Flask, flash #import Flask class (classes are templates for creating objects through inheritance, e.g., an child object inherits the traits (functions and attributes) of its parent class)
-
 import flask.views
 import os
 
